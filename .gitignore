@@ -1,2 +1,2 @@
-venv
-the_weather\__pycache__
+src/venv
+src/the_weather/__pycache__
